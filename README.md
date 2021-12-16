@@ -29,6 +29,6 @@ How to download:
 [IDEP Denali snapshot instruction](https://github.com/staketab/nginx-cosmos-snap/blob/main/docs/idep.md)  
 [IDEP Sanford snapshot instruction](https://github.com/staketab/nginx-cosmos-snap/blob/main/docs/idep-sanford.md)  
 [Comdex snapshot instruction](https://github.com/staketab/nginx-cosmos-snap/blob/main/docs/comdex.md)  
-[Kichain snapshot instruction](kichain.md)  
+[Kichain snapshot instruction](docs/kichain.md)  
 
 ## DONE
